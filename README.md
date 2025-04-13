@@ -1,1 +1,1 @@
-NutriSync_UI
+NutriSync-UI
